@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "ngrok": "^5.0.0-beta.2"
+  },
+  "name": "ngrok-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
